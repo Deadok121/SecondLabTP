@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Roman/CLionProjects/secondLabTP/Stack.h
+StackElement.h
+/Users/Roman/CLionProjects/secondLabTP/StackElement.h
+
+/Users/Roman/CLionProjects/secondLabTP/StackElement.h
+
+/Users/Roman/CLionProjects/secondLabTP/main.cpp
+iostream
+-
+Stack.h
+/Users/Roman/CLionProjects/secondLabTP/Stack.h
+StackElement.h
+/Users/Roman/CLionProjects/secondLabTP/StackElement.h
+Сoordinate.h
+/Users/Roman/CLionProjects/secondLabTP/Сoordinate.h
+
+/Users/Roman/CLionProjects/secondLabTP/Сoordinate.h
+
